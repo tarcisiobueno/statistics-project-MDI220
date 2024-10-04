@@ -32,7 +32,3 @@ This project analyzes the daily electric power consumption in France from 2013 t
 6. **Confidence Intervals:**
     - Constructing confidence intervals for the mean power consumption.
     - Interpreting confidence intervals and their implications.
-
-## Data Source
-
-The dataset used in this project is the daily electric power consumption in France from 2013-2023, available on eCampus and originally from data.gouv.fr.
