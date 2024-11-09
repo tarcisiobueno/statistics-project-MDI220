@@ -4,7 +4,7 @@ This project was done during the course of statistics at Télécom Paris. It ana
 
 ## Topics Covered
 
-- Maximum Likelihood Estimation (MLE) for mean and variance of a Gaussian distribution.
+- Maximum Likelihood Estimation.
 - Bayesian Statistics.
 - Hypothesis Testing.
 - Testing Independence.
